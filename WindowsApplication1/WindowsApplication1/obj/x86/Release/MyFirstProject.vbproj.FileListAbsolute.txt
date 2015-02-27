@@ -1,0 +1,3 @@
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb

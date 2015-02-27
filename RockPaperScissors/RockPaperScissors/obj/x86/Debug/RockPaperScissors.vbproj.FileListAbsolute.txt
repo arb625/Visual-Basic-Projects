@@ -1,0 +1,9 @@
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Form1.resources
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Resources.resources
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.vbproj.GenerateResource.Cache
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.exe
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.xml
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.pdb

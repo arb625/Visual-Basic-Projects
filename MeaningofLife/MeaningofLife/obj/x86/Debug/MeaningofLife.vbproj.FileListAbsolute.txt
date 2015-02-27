@@ -1,0 +1,9 @@
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\MeaningofLife\MeaningofLife\obj\x86\Debug\MeaningofLife.Form1.resources
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\MeaningofLife\MeaningofLife\obj\x86\Debug\MeaningofLife.Resources.resources
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\MeaningofLife\MeaningofLife\obj\x86\Debug\MeaningofLife.vbproj.GenerateResource.Cache
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\MeaningofLife\MeaningofLife\bin\Debug\MeaningofLife.exe
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\MeaningofLife\MeaningofLife\bin\Debug\MeaningofLife.pdb
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\MeaningofLife\MeaningofLife\bin\Debug\MeaningofLife.xml
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\MeaningofLife\MeaningofLife\obj\x86\Debug\MeaningofLife.exe
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\MeaningofLife\MeaningofLife\obj\x86\Debug\MeaningofLife.xml
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\MeaningofLife\MeaningofLife\obj\x86\Debug\MeaningofLife.pdb

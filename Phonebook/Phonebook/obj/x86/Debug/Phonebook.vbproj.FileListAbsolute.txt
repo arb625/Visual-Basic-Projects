@@ -1,0 +1,9 @@
+C:\Users\Anurag\documents\visual studio 2010\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\Anurag\documents\visual studio 2010\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\Anurag\documents\visual studio 2010\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.xml
+C:\Users\Anurag\documents\visual studio 2010\Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Form1.resources
+C:\Users\Anurag\documents\visual studio 2010\Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Resources.resources
+C:\Users\Anurag\documents\visual studio 2010\Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.vbproj.GenerateResource.Cache
+C:\Users\Anurag\documents\visual studio 2010\Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.exe
+C:\Users\Anurag\documents\visual studio 2010\Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.xml
+C:\Users\Anurag\documents\visual studio 2010\Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.pdb

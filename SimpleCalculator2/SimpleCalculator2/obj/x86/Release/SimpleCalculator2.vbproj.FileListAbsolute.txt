@@ -1,0 +1,9 @@
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\SimpleCalculator2\SimpleCalculator2\bin\Release\SimpleCalculator2.exe
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\SimpleCalculator2\SimpleCalculator2\bin\Release\SimpleCalculator2.pdb
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\SimpleCalculator2\SimpleCalculator2\bin\Release\SimpleCalculator2.xml
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\SimpleCalculator2\SimpleCalculator2\obj\x86\Release\SimpleCalculator2.Form1.resources
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\SimpleCalculator2\SimpleCalculator2\obj\x86\Release\SimpleCalculator2.Resources.resources
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\SimpleCalculator2\SimpleCalculator2\obj\x86\Release\SimpleCalculator2.vbproj.GenerateResource.Cache
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\SimpleCalculator2\SimpleCalculator2\obj\x86\Release\SimpleCalculator2.exe
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\SimpleCalculator2\SimpleCalculator2\obj\x86\Release\SimpleCalculator2.xml
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\SimpleCalculator2\SimpleCalculator2\obj\x86\Release\SimpleCalculator2.pdb

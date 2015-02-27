@@ -1,0 +1,9 @@
+C:\Users\Anurag\documents\visual studio 2010\Projects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.exe
+C:\Users\Anurag\documents\visual studio 2010\Projects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.pdb
+C:\Users\Anurag\documents\visual studio 2010\Projects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.xml
+C:\Users\Anurag\documents\visual studio 2010\Projects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.Form1.resources
+C:\Users\Anurag\documents\visual studio 2010\Projects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.Resources.resources
+C:\Users\Anurag\documents\visual studio 2010\Projects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.vbproj.GenerateResource.Cache
+C:\Users\Anurag\documents\visual studio 2010\Projects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.exe
+C:\Users\Anurag\documents\visual studio 2010\Projects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.xml
+C:\Users\Anurag\documents\visual studio 2010\Projects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.pdb

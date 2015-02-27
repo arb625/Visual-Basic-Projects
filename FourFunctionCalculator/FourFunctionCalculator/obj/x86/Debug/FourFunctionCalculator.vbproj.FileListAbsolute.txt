@@ -1,0 +1,18 @@
+C:\Users\Anurag\AppData\Local\Temporary Projects\FourFunctionCalculator\bin\Debug\FourFunctionCalculator.exe
+C:\Users\Anurag\AppData\Local\Temporary Projects\FourFunctionCalculator\bin\Debug\FourFunctionCalculator.pdb
+C:\Users\Anurag\AppData\Local\Temporary Projects\FourFunctionCalculator\bin\Debug\FourFunctionCalculator.xml
+C:\Users\Anurag\AppData\Local\Temporary Projects\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.Form1.resources
+C:\Users\Anurag\AppData\Local\Temporary Projects\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.Resources.resources
+C:\Users\Anurag\AppData\Local\Temporary Projects\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.vbproj.GenerateResource.Cache
+C:\Users\Anurag\AppData\Local\Temporary Projects\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.exe
+C:\Users\Anurag\AppData\Local\Temporary Projects\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.xml
+C:\Users\Anurag\AppData\Local\Temporary Projects\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.pdb
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.exe
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.xml
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.pdb
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\bin\Debug\FourFunctionCalculator.exe
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\bin\Debug\FourFunctionCalculator.pdb
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\bin\Debug\FourFunctionCalculator.xml
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.Form1.resources
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.Resources.resources
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.vbproj.GenerateResource.Cache

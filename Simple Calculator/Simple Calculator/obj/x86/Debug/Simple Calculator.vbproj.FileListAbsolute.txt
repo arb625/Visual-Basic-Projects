@@ -1,0 +1,12 @@
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.xml
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\Simple_Calculator.Form1.resources
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\Simple_Calculator.Resources.resources
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\Simple Calculator.vbproj.GenerateResource.Cache
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\Simple Calculator.exe
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\Simple Calculator.xml
+C:\Users\Anurag\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\Simple Calculator.pdb
+C:\Users\Anurag\MS Visual Basic 2010 Workspace\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\Simple Calculator.exe
+C:\Users\Anurag\MS Visual Basic 2010 Workspace\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\Simple Calculator.xml
+C:\Users\Anurag\MS Visual Basic 2010 Workspace\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\Simple Calculator.pdb
