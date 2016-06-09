@@ -7,3 +7,6 @@ C:\Users\Anurag\documents\visual studio 2010\Projects\Phonebook\Phonebook\obj\x8
 C:\Users\Anurag\documents\visual studio 2010\Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.exe
 C:\Users\Anurag\documents\visual studio 2010\Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.xml
 C:\Users\Anurag\documents\visual studio 2010\Projects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.pdb
+C:\VBProjects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.exe
+C:\VBProjects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.xml
+C:\VBProjects\Phonebook\Phonebook\obj\x86\Debug\Phonebook.pdb

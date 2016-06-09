@@ -1,0 +1,10 @@
+C:\VBProjects\MeaningofLife\MeaningofLife\bin\Release\MeaningofLife.exe
+C:\VBProjects\MeaningofLife\MeaningofLife\bin\Release\MeaningofLife.pdb
+C:\VBProjects\MeaningofLife\MeaningofLife\bin\Release\MeaningofLife.xml
+C:\VBProjects\MeaningofLife\MeaningofLife\obj\x86\Release\MeaningofLife.vbprojResolveAssemblyReference.cache
+C:\VBProjects\MeaningofLife\MeaningofLife\obj\x86\Release\MeaningofLife.Form1.resources
+C:\VBProjects\MeaningofLife\MeaningofLife\obj\x86\Release\MeaningofLife.Resources.resources
+C:\VBProjects\MeaningofLife\MeaningofLife\obj\x86\Release\MeaningofLife.vbproj.GenerateResource.Cache
+C:\VBProjects\MeaningofLife\MeaningofLife\obj\x86\Release\MeaningofLife.exe
+C:\VBProjects\MeaningofLife\MeaningofLife\obj\x86\Release\MeaningofLife.xml
+C:\VBProjects\MeaningofLife\MeaningofLife\obj\x86\Release\MeaningofLife.pdb

@@ -1,0 +1,9 @@
+C:\VBProjects\Phonebook\Phonebook\bin\Release\Phonebook.exe
+C:\VBProjects\Phonebook\Phonebook\bin\Release\Phonebook.pdb
+C:\VBProjects\Phonebook\Phonebook\bin\Release\Phonebook.xml
+C:\VBProjects\Phonebook\Phonebook\obj\x86\Release\Phonebook.Form1.resources
+C:\VBProjects\Phonebook\Phonebook\obj\x86\Release\Phonebook.Resources.resources
+C:\VBProjects\Phonebook\Phonebook\obj\x86\Release\Phonebook.vbproj.GenerateResource.Cache
+C:\VBProjects\Phonebook\Phonebook\obj\x86\Release\Phonebook.exe
+C:\VBProjects\Phonebook\Phonebook\obj\x86\Release\Phonebook.xml
+C:\VBProjects\Phonebook\Phonebook\obj\x86\Release\Phonebook.pdb

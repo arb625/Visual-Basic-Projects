@@ -7,3 +7,12 @@ C:\Users\Anurag\Documents\Visual Studio 2010\Projects\RockPaperScissors\RockPape
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Release\RockPaperScissors.exe
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Release\RockPaperScissors.xml
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Release\RockPaperScissors.pdb
+C:\VBProjects\RockPaperScissors\RockPaperScissors\obj\x86\Release\RockPaperScissors.exe
+C:\VBProjects\RockPaperScissors\RockPaperScissors\obj\x86\Release\RockPaperScissors.xml
+C:\VBProjects\RockPaperScissors\RockPaperScissors\obj\x86\Release\RockPaperScissors.pdb
+C:\VBProjects\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.exe
+C:\VBProjects\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.pdb
+C:\VBProjects\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.xml
+C:\VBProjects\RockPaperScissors\RockPaperScissors\obj\x86\Release\RockPaperScissors.Form1.resources
+C:\VBProjects\RockPaperScissors\RockPaperScissors\obj\x86\Release\RockPaperScissors.Resources.resources
+C:\VBProjects\RockPaperScissors\RockPaperScissors\obj\x86\Release\RockPaperScissors.vbproj.GenerateResource.Cache

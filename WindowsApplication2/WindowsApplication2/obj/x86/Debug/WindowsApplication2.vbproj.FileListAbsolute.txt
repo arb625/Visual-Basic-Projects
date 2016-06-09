@@ -7,3 +7,13 @@ C:\Users\Anurag\Documents\Visual Studio 2010\Projects\WindowsApplication2\Window
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\VBProjects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\VBProjects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\VBProjects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\VBProjects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\VBProjects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\VBProjects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\VBProjects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\VBProjects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\VBProjects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\VBProjects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache

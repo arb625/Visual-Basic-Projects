@@ -5,15 +5,15 @@
 
     Private Sub ButtonExecute_Click(sender As System.Object, e As System.EventArgs) Handles ButtonExecute.Click
         Dim OpenFile1 As New OpenFileDialog
-        If RadioButtonUpload.Checked = True And RichTextBox1.Text.Trim().Length = 0 Then
+        If RadioButtonDownload.Checked = True And RichTextBox1.Text.Trim().Length = 0 Then
             MsgBox("Error: There is no string to upload.")
         End If
         LabelFilePath.Text = OpenFileDialog1.FileName
-        If RadioButtonDownload.Checked = True Then
+        If RadioButtonUpload.Checked = True Then
             OpenFileDialog1.ShowDialog()
             RichTextBox1.LoadFile(OpenFileDialog1.FileName, RichTextBoxStreamType.PlainText)
         End If
-        If RadioButtonUpload.Checked = True And RichTextBox1.Text.Trim().Length <> 0 Then
+        If RadioButtonDownload.Checked = True And RichTextBox1.Text.Trim().Length <> 0 Then
             OpenFileDialog1.ShowDialog()
             Dim file As System.IO.StreamWriter
             file = My.Computer.FileSystem.OpenTextFileWriter(OpenFileDialog1.FileName, True)

@@ -43,4 +43,8 @@
         LabelUserChoice.Text = userChoice
         LabelComputerChoice.Text = pcChoice
     End Sub
+
+    Private Sub LabelComputerChoice_Click(sender As Object, e As EventArgs) Handles LabelComputerChoice.Click
+
+    End Sub
 End Class

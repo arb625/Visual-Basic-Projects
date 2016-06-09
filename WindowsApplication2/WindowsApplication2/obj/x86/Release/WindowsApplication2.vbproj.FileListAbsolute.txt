@@ -1,0 +1,9 @@
+C:\VBProjects\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.exe
+C:\VBProjects\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+C:\VBProjects\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.xml
+C:\VBProjects\WindowsApplication2\WindowsApplication2\obj\x86\Release\WindowsApplication2.Form1.resources
+C:\VBProjects\WindowsApplication2\WindowsApplication2\obj\x86\Release\WindowsApplication2.Resources.resources
+C:\VBProjects\WindowsApplication2\WindowsApplication2\obj\x86\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\VBProjects\WindowsApplication2\WindowsApplication2\obj\x86\Release\WindowsApplication2.exe
+C:\VBProjects\WindowsApplication2\WindowsApplication2\obj\x86\Release\WindowsApplication2.xml
+C:\VBProjects\WindowsApplication2\WindowsApplication2\obj\x86\Release\WindowsApplication2.pdb

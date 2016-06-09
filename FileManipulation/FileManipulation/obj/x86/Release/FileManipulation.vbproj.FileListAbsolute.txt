@@ -7,3 +7,12 @@ C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FileManipulation\FileManip
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FileManipulation\FileManipulation\obj\x86\Release\FileManipulation.exe
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FileManipulation\FileManipulation\obj\x86\Release\FileManipulation.xml
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FileManipulation\FileManipulation\obj\x86\Release\FileManipulation.pdb
+C:\VBProjects\FileManipulation\FileManipulation\obj\x86\Release\FileManipulation.exe
+C:\VBProjects\FileManipulation\FileManipulation\obj\x86\Release\FileManipulation.xml
+C:\VBProjects\FileManipulation\FileManipulation\obj\x86\Release\FileManipulation.pdb
+C:\VBProjects\FileManipulation\FileManipulation\bin\Release\FileManipulation.exe
+C:\VBProjects\FileManipulation\FileManipulation\bin\Release\FileManipulation.pdb
+C:\VBProjects\FileManipulation\FileManipulation\bin\Release\FileManipulation.xml
+C:\VBProjects\FileManipulation\FileManipulation\obj\x86\Release\FileManipulation.Form1.resources
+C:\VBProjects\FileManipulation\FileManipulation\obj\x86\Release\FileManipulation.Resources.resources
+C:\VBProjects\FileManipulation\FileManipulation\obj\x86\Release\FileManipulation.vbproj.GenerateResource.Cache

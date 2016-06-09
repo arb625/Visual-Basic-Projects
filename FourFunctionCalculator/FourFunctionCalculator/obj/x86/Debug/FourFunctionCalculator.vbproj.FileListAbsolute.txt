@@ -16,3 +16,6 @@ C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\Fou
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.Form1.resources
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.Resources.resources
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.vbproj.GenerateResource.Cache
+C:\VBProjects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.exe
+C:\VBProjects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.xml
+C:\VBProjects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Debug\FourFunctionCalculator.pdb

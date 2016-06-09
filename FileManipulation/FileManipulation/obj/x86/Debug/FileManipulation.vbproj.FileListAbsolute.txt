@@ -7,3 +7,13 @@ C:\Users\Anurag\documents\visual studio 2010\Projects\FileManipulation\FileManip
 C:\Users\Anurag\documents\visual studio 2010\Projects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.exe
 C:\Users\Anurag\documents\visual studio 2010\Projects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.xml
 C:\Users\Anurag\documents\visual studio 2010\Projects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.pdb
+C:\VBProjects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.exe
+C:\VBProjects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.xml
+C:\VBProjects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.pdb
+C:\VBProjects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.exe
+C:\VBProjects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.pdb
+C:\VBProjects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.xml
+C:\VBProjects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.vbprojResolveAssemblyReference.cache
+C:\VBProjects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.Form1.resources
+C:\VBProjects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.Resources.resources
+C:\VBProjects\FileManipulation\FileManipulation\obj\x86\Debug\FileManipulation.vbproj.GenerateResource.Cache

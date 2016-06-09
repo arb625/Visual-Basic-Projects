@@ -7,3 +7,6 @@ C:\Users\Anurag\Documents\Visual Studio 2010\Projects\MeaningofLife\MeaningofLif
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\MeaningofLife\MeaningofLife\obj\x86\Debug\MeaningofLife.exe
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\MeaningofLife\MeaningofLife\obj\x86\Debug\MeaningofLife.xml
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\MeaningofLife\MeaningofLife\obj\x86\Debug\MeaningofLife.pdb
+C:\VBProjects\MeaningofLife\MeaningofLife\obj\x86\Debug\MeaningofLife.exe
+C:\VBProjects\MeaningofLife\MeaningofLife\obj\x86\Debug\MeaningofLife.xml
+C:\VBProjects\MeaningofLife\MeaningofLife\obj\x86\Debug\MeaningofLife.pdb

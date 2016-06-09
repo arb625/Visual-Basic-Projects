@@ -7,3 +7,13 @@ C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\Fou
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Release\FourFunctionCalculator.exe
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Release\FourFunctionCalculator.xml
 C:\Users\Anurag\Documents\Visual Studio 2010\Projects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Release\FourFunctionCalculator.pdb
+C:\VBProjects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Release\FourFunctionCalculator.exe
+C:\VBProjects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Release\FourFunctionCalculator.xml
+C:\VBProjects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Release\FourFunctionCalculator.pdb
+C:\VBProjects\FourFunctionCalculator\FourFunctionCalculator\bin\Release\FourFunctionCalculator.exe
+C:\VBProjects\FourFunctionCalculator\FourFunctionCalculator\bin\Release\FourFunctionCalculator.pdb
+C:\VBProjects\FourFunctionCalculator\FourFunctionCalculator\bin\Release\FourFunctionCalculator.xml
+C:\VBProjects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Release\FourFunctionCalculator.vbprojResolveAssemblyReference.cache
+C:\VBProjects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Release\FourFunctionCalculator.Form1.resources
+C:\VBProjects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Release\FourFunctionCalculator.Resources.resources
+C:\VBProjects\FourFunctionCalculator\FourFunctionCalculator\obj\x86\Release\FourFunctionCalculator.vbproj.GenerateResource.Cache
